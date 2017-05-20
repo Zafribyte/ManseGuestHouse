@@ -445,23 +445,6 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map2",
-          "_anchor": "map2-h",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#fff",
-            "googleMap": {
-              "address": "King William's Town",
-              "placeId": "",
-              "state": "loading"
-            }
-          }
-        },
-        {
           "_inherit": "contacts3",
           "_styles": {
             "p, .list-group-text, .form-control-label": {
