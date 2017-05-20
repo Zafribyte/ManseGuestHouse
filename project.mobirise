@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 16,
+    "uniqCompNum": 19,
     "versionPublish": "3.10.7",
     "favicon": "",
     "noImageResize": ""
@@ -420,14 +420,42 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "map2",
-          "_anchor": "map2-8",
+          "_name": "image2",
+          "_anchor": "image2-i",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/map-1400x653.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#fff",
             "googleMap": {
-              "address": "38 wodehouse king williams town",
+              "address": "King William's Town",
               "placeId": "",
               "state": "loading"
             }
@@ -545,7 +573,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Customer Susgestion"
+                "customTitle": "Customer Suggestion"
               }
             }
           },
